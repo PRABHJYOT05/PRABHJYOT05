@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PRABHJYOT05
-- 👀 I’m interested in ... hacking
+- 👀 I’m interested in ... hacking, networking
 - 🌱 I’m currently learning ... networking  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... prabhjyot05singh@gmail.com
